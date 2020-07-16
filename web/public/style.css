@@ -1,0 +1,31 @@
+h1
+{
+  color: SlateBlue;
+  text-align: center;
+  font-size:36px;
+}
+p 
+{
+  color: Orange;
+  text-align: center;
+  font-size:18px;
+  margin: 50px 75px 100px 125px;
+}
+p1 
+{
+  color: black;
+  text-align: end;
+  font-size:14px;
+  margin: 450px;
+}
+p1 
+{
+  color: black;
+  text-align: left;
+  font-size:18px;
+  margin: 100px;
+}
+body 
+{
+  background-color: LightGray;
+}
